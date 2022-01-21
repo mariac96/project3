@@ -1,0 +1,73 @@
+LSH Frechet Discrete
+Query: x
+Approximate Nearest neighbor: cat
+distanceApproximate: 112.944
+distanceTrue: 52.6946
+
+
+LSH Frechet Discrete
+Query: xel
+Approximate Nearest neighbor: bll
+distanceApproximate: 10.22
+distanceTrue: 7.2957
+
+
+LSH Frechet Discrete
+Query: xl
+Approximate Nearest neighbor: ctl
+distanceApproximate: 54.5143
+distanceTrue: 38.2927
+
+
+LSH Frechet Discrete
+Query: xlnx
+Approximate Nearest neighbor: aee
+distanceApproximate: 22.1424
+distanceTrue: 14.166
+
+
+LSH Frechet Discrete
+Query: xom
+Approximate Nearest neighbor: chrw
+distanceApproximate: 36.0217
+distanceTrue: 36.0217
+
+
+LSH Frechet Discrete
+Query: xray
+Approximate Nearest neighbor: aee
+distanceApproximate: 21.7254
+distanceTrue: 18.1675
+
+
+LSH Frechet Discrete
+Query: xrx
+Approximate Nearest neighbor: ash
+distanceApproximate: 39.2597
+distanceTrue: 26.4238
+
+
+LSH Frechet Discrete
+Query: yum
+Approximate Nearest neighbor: a
+distanceApproximate: 24.635
+distanceTrue: 16.9802
+
+
+LSH Frechet Discrete
+Query: zbh
+Approximate Nearest neighbor: aep
+distanceApproximate: 68.7349
+distanceTrue: 40.6698
+
+
+LSH Frechet Discrete
+Query: zion
+Approximate Nearest neighbor: aa
+distanceApproximate: 47.746
+distanceTrue: 32.9152
+
+
+tApproximateAverage: 7.84846
+tTrueAverage: 109.377
+MAF: 2.14337
